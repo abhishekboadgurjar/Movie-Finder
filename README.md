@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this blog, we will walk through the process of building a Movie Finder website using React and the OMDB API. The website allows users to browse movies by categories like Avengers, Star Wars, and Series, and search for movies using specific queries. Each movie has its detail page, making it easy to explore more about your favorite films.
+ we will walk through the process of building a Movie Finder website using React and the OMDB API. The website allows users to browse movies by categories like Avengers, Star Wars, and Series, and search for movies using specific queries. Each movie has its detail page, making it easy to explore more about your favorite films.
 
 ### Project Overview
 
