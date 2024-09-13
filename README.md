@@ -84,8 +84,6 @@ You can check out the live demo of the Movie Finder website [here](https://movie
 ![Screenshot 2024-09-13 083447](https://github.com/user-attachments/assets/33a111e8-f586-40c4-985a-c8af8f7af532)
 
 
-
-
 ### Conclusion
 
 In this blog, we learned how to create a Movie Finder website using React, React Router, and Axios. This project demonstrates how to interact with a public API, manage state in React, and create a simple yet functional movie browsing experience.
