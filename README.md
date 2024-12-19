@@ -54,7 +54,7 @@ movie-finder/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/movie-finder.git
+    git clone https://github.com/abhishekboadgurjar/movie-finder.git
     cd movie-finder
     ```
 
@@ -99,4 +99,4 @@ Feel free to customize the design and add more features, like user reviews or mo
 - [React Router](https://reactrouter.com/)
 
 ### Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
